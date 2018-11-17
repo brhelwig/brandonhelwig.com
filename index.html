@@ -2,7 +2,7 @@
 permalink: /
 ---
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,11 +22,11 @@ permalink: /
     <body>
         <div class="content">
             {% if site.front_img %}
-            <img src="{{ site.front_img_path }}" id="fullscreen">
+            <img src="{{ site.front_img_path }}" id="fullscreen" alt="{{ site.front_img_alt_text}}">
             {% endif %}
 
             {% if site.avatar %}
-                <img src="{{ site.avatar_img_path }}" id="avatar">
+                <img src="{{ site.avatar_img_path }}" id="avatar" alt="{{ site.avatar_alt_text}}">
             {% endif %}
 
             <h1>{{ site.name }}</h1>
