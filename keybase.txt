@@ -1,0 +1,58 @@
+---
+---
+==================================================================
+https://keybase.io/brhelwig
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.brandonhelwig.com
+  * I am brhelwig (https://keybase.io/brhelwig) on keybase.
+  * I have a public key ASAWObXAQNwzN9GC-0I7ESfqutxoHUpNKfe4d0rmRRpedQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201639b5c040dc3337d182fb423b1127eabadc681d4a4d29f7b8774ae6451a5e750a",
+      "host": "keybase.io",
+      "kid": "01201639b5c040dc3337d182fb423b1127eabadc681d4a4d29f7b8774ae6451a5e750a",
+      "uid": "d012917b81aedaa3018facf69783b619",
+      "username": "brhelwig"
+    },
+    "merkle_root": {
+      "ctime": 1542321815,
+      "hash": "4d7f3f12b7396a61d4b1a07077dd9a7f7132b2346dfaefee91a69bd3f0befc7622c4cbfcd8ea70fad76f73791ef175122e5e3b8a4a87795f8885954813cb8657",
+      "hash_meta": "c04cbc748a71d3ead6aa77f86becd91564123022876dc6a944ae6081cb0d59e2",
+      "seqno": 3960268
+    },
+    "service": {
+      "entropy": "FfmEe3D7eb+IadByTwBgo40q",
+      "hostname": "www.brandonhelwig.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1542321825,
+  "expire_in": 504576000,
+  "prev": "e65d412a9b256f464e4842cbefd663479157e2fab74e9d6a1884747d15fd633f",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFjm1wEDcMzfRgvtCOxEn6rrcaB1KTSn3uHdK5kUaXnUKp3BheWxvYWTESpcCFsQg5l1BKpslb0ZOSELL79ZjR5FX4vq3Tp1qGIR0fRX9Yz/EICNncxXq32uYmSaMYAFCi8pJQ1y5ZDfmXZrT1PxTDaAqAgHCo3NpZ8RA84j3wydG4SxBn2Dpr3wCaGfy4GxGvGqdLsHbV0qAb/cSxJfUM2lOiDo38+VPMTdYiugSDdTUNpaC5DH3xh8pBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGhxgU4VpbApQ5J9dxxQovz6h3jrVJGUdvFjYb418+7co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brhelwig
+
+==================================================================
