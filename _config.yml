@@ -23,6 +23,7 @@ stack_of_username: 180881
 # tumblr_username: your_tumblr_username_goes_here
 # weibo_username: your_weibo_username_goes_here
 # lastfm_username: your_lastfm_username_goes_here
+resume_url: "/resume"
 blog_url: "/blog"
 email: web@brandonhelwig.com
 public_key_url: "https://keybase.io/brhelwig"
