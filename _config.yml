@@ -29,19 +29,19 @@ public_key_url: "https://keybase.io/brhelwig"
 
 
 avatar: yes
-avatar_img_path: "assets/img/avatar.jpg"
+avatar_img_path: "/assets/img/avatar.jpg"
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 # avatar_img_path: "https://avatars2.githubusercontent.com/u/144871"
 
 
 front_img: yes
-front_img_path: "assets/img/background.jpg"
+front_img_path: "/assets/img/background.jpg"
 #front_img_path: "https://external.url/image.jpg"
 
 
 favicon_img: yes
-favicon_img_path: "assets/img/favicon.png"
+favicon_img_path: "/assets/img/favicon.png"
 #favicon_img_path: "https://external.url/favicon.ico"
 
 
