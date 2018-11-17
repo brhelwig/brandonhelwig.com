@@ -1,5 +1,5 @@
 body {
-    font-family: 'Passion One',Helvetica,Arial,sans-serif;
+    font-family: 'Bitter',serif;
     background-color: rgba(0, 0, 0, 0.9);
     position: absolute;
     top: 0;
@@ -29,7 +29,7 @@ h1 {
     font-weight: bold;
     letter-spacing: 0.1em;
     font-size: 4em;
-    font-family: 'Passion One',Helvetica,Arial,sans-serif;
+    font-family: 'Bitter',serif;
     margin: -10px 0;
 }
 h3 {
