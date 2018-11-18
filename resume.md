@@ -4,7 +4,7 @@ title: Brandon Helwig
 ---
 
 # Brandon Helwig
-<center>Broomfield, Colorado ∙ resume@brandonhelwig.com ∙ GVoice: (303) 747-4070</center>
+<center>Broomfield, Colorado ∙ resume@brandonhelwig.com ∙ (303) 747-4070</center>
 
 ## Professional Experience
 
