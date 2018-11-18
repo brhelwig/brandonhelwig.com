@@ -7,3 +7,10 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Bitter',serif;
   font-weight: normal;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ddd;
+    background-color: #222;
+  }
+}
