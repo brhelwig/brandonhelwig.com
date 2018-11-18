@@ -59,10 +59,10 @@ title: Brandon Helwig
   * Provided co-branded Internet support for hotels and other businesses.
   * Worked with customers and telco dispatch to escalate unresolved issues.
 
-**Founder/Technician**, May 2003 - July 2005. *Helwig Technologies*
+**Founder**, May 2003 - July 2005. *Helwig Technologies*
 
   * Developed inventory website for car dealership using PHP/MySQL.
-  * Provided field support for IBM hardware to USDA regional offices.
+  * Provided field support for IBM AS/400 hardware to USDA regional offices.
   * Deployed and managed Windows domains and Exchange servers.
   * Home and business Windows desktop IT support.
 
