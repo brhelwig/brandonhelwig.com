@@ -47,17 +47,12 @@ title: Brandon Helwig
   * Managed hosting for blogs with 10 million uniques per month.
   * Linux system administration.
 
-**Overnight Ops Tech**, May 2006 - December 2008. *Golden West Telecommunications*
+**Overnight NOC Operations**, August 2005 - December 2008. *Golden West Technologies*
 
-  * Customer support for phone, TV, and Internet.
   * NOC alert monitoring of data centers and outside plant facilities.
   * Coordinating with outside plant, central office, and network partners during service issues.
-
-**Internet Technician II**, August 2005 - April 2006. *Golden West Telecommunications*
-
-  * Provided tech support for home and business end user customers.
-  * Provided co-branded Internet support for hotels and other businesses.
-  * Worked with customers and telco dispatch to escalate unresolved issues.
+  * Tech support for phone, TV, and Internet (Dial-up, Cable, DSL, Fiber) services for commercial and residential users.
+  * Provided branded Internet support for hotels and residential condos.
 
 **Founder**, May 2003 - July 2005. *Helwig Technologies*
 
