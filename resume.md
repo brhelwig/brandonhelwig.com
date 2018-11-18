@@ -66,16 +66,6 @@ title: Brandon Helwig
   * Deployed and managed Windows domains and Exchange servers.
   * Home and business Windows desktop IT support.
 
-## Technical Proficiencies
-
-  * Configuration Management (Puppet, Chef, Salt)
-  * Hosting on IaaS platforms (Amazon EC2, Openstack, Windows Azure)
-  * MVC web application frameworks (Ruby on Rails, Django, Play)
-  * Metrics and log capture (Statsd, Graphite, Logstash, ElasticSearch)
-  * NoSQL Database Operations (Hadoop, Riak, MongoDB, Redis)
-  * Relational Databases (PostgreSQL, MySQL, Oracle)
-  * Scripting Languages (Python, PHP, Ruby, Javascript)
-  * Virtualization / Containerization (VMware, Xen, LXC, Docker)
 
 ## Professional Certifications
   * **Puppet Certified Professional** (2014)
