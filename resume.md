@@ -3,8 +3,20 @@ layout: resume
 title: Brandon Helwig
 ---
 
-# Brandon Helwig
-<center>Broomfield, Colorado ∙ resume@brandonhelwig.com ∙ (303) 747-4070</center>
+<h1 style="text-align:center;">Brandon Helwig</h1>
+<div style="text-align:center;">
+  Broomfield, Colorado &bull; resume@brandonhelwig.com &bull; (303) 747-4070
+</div>
+<br />
+
+## Technical Expertise  
+
+* **Languages:** Python, Ruby, PHP, Javascript, HTML, CSS
+* **Databases:** PostgreSQL, MySQL, SQLite, Hadoop, HBase, Redis, Riak
+* **Frameworks:** Ansible, Chef, Django, Puppet, Ruby on Rails, Terraform, Wordpress
+* **Operating Systems:** CenOS, MacOS, Oracle Linux, Ubuntu
+* **Cloud Platforms:** Amazon AWS, Digital Ocean, Heroku, Linode, Oracle Cloud, Rackspace, Twilio, Dokku
+* **Tools:** Docker, ELK (ElasticSearch, Logstash, Kibana), Git, Graphana/Graphite, Hashicorp Vault, Jenkins, Kubernetes, Gitlab, Monit, Errbit, Sentry, New Relic
 
 ## Professional Experience
 
