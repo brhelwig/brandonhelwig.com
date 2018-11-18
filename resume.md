@@ -41,7 +41,7 @@ title: Brandon Helwig
   * Created tools to manage cloud servers across 4 datacenters.
   * Designed architecture to support multi datacenter redundancy.
 
-**Founder/Principal Consultant**, December 2008 - December 2013. *Faction Consulting*
+**Founder**, December 2008 - March 2014. *Xenscale Hosting*
 
   * Worked with web agencies to support hosting infrastructure.
   * Managed hosting for blogs with 10 million uniques per month.
