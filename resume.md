@@ -32,7 +32,7 @@ title: Brandon Helwig
   * Built new Site Reliability Engineering team to support growth of mobile marketing cloud.
   * Plan and execute operational integration strategy with other Oracle properties.
 
-**DevOps Engineer**, August 2009 - January 2014. *Oracle/Push IO*
+**DevOps Engineer**, August 2009 - January 2014. *Push IO* (Acquired by Oracle)
 
   * Worked with legal teams to support the M&A due diligence process.
   * Managed service delivery infrastructure and internal IT support.
