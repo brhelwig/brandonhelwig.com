@@ -44,9 +44,9 @@ title: Brandon Helwig
 
 **Founder**, December 2008 - March 2014. *Xenscale Hosting*
 
-  * Worked with web agencies to support hosting infrastructure.
-  * Managed hosting for blogs with 10 million uniques per month.
-  * Linux system administration.
+  * High Touch WordPress Hosting for 10+ million impressions per month websites.
+  * Wordpress, PHP, Ruby on Rails, and Python (Django/Flask) Backend Web Development.
+  * Cloud automation and Linux server administration.
 
 **Overnight NOC Operations**, August 2005 - December 2008. *Golden West Technologies*
 
