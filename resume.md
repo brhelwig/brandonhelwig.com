@@ -16,7 +16,7 @@ title: Brandon Helwig
 * **Web Frameworks:** Django, Flask, Tornado, Ruby on Rails, Sinatra, Wordpress
 * **Configuration Management:** Ansible, Chef, Puppet, Terraform
 * **Operating Systems:** CenOS, MacOS, Oracle Linux, Ubuntu
-* **Cloud Platforms:** Amazon AWS, Digital Ocean, Heroku, Linode, Oracle Cloud, Rackspace, Twilio, Dokku
+* **Cloud Platforms:** Amazon Web Services (AWS), Digital Ocean, Heroku, Linode, Oracle Cloud, Rackspace, Twilio, Dokku
 * **Tools:** Docker, ELK (ElasticSearch, Logstash, Kibana), Git, Graphana/Graphite, Hashicorp Vault, Jenkins, Kubernetes, Gitlab, Monit, Errbit, Sentry, New Relic
 
 ## Professional Experience
