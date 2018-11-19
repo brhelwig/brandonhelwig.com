@@ -17,7 +17,7 @@ title: Brandon Helwig
 * **Configuration Management:** Ansible, Chef, Puppet, Terraform
 * **Operating Systems:** CenOS, MacOS, Oracle Linux, Ubuntu
 * **Cloud Platforms:** Amazon Web Services (AWS), Digital Ocean, Heroku, Linode, Oracle Cloud, Rackspace, Twilio, Dokku
-* **Tools:** Docker, ELK (ElasticSearch, Logstash, Kibana), Git, Graphana/Graphite, Hashicorp Vault, Jenkins, Kubernetes, Gitlab, Monit, Errbit, Sentry, New Relic
+* **Tools:** Docker, ELK (ElasticSearch, Logstash, Kibana), Git, Graphana/Graphite, Hashicorp Vault, Jenkins, Kubernetes, Gitlab
 
 ## Professional Experience
 
