@@ -13,7 +13,8 @@ title: Brandon Helwig
 
 * **Languages:** Python, Ruby, PHP, Javascript, HTML, CSS
 * **Databases:** PostgreSQL, MySQL, SQLite, Hadoop, HBase, Redis, Riak
-* **Frameworks:** Ansible, Chef, Django, Puppet, Ruby on Rails, Terraform, Wordpress
+* **Web Frameworks:** Django, Flask, Tornado, Ruby on Rails, Sinatra, Wordpress
+* **Configuration Management:** Ansible, Chef, Puppet, Terraform
 * **Operating Systems:** CenOS, MacOS, Oracle Linux, Ubuntu
 * **Cloud Platforms:** Amazon AWS, Digital Ocean, Heroku, Linode, Oracle Cloud, Rackspace, Twilio, Dokku
 * **Tools:** Docker, ELK (ElasticSearch, Logstash, Kibana), Git, Graphana/Graphite, Hashicorp Vault, Jenkins, Kubernetes, Gitlab, Monit, Errbit, Sentry, New Relic
