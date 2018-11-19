@@ -53,7 +53,6 @@ title: Brandon Helwig
   * NOC alert monitoring of data centers and outside plant facilities.
   * Coordinating with outside plant, central office, and network partners during service issues.
   * Tech support for phone, TV, and Internet (Dial-up, Cable, DSL, Fiber) services for commercial and residential users.
-  * Provided branded Internet support for hotels and residential condos.
 
 **Founder**, May 2003 - July 2005. *Helwig Technologies*
 
