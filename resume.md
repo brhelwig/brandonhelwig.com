@@ -22,9 +22,9 @@ title: Brandon Helwig
 ## Professional Experience
 
 
-**Production Infrastructure Architect & Manager, SaaS Engineering**, January 2014 - Present.. *Oracle*
+**Infrastructure Architect & Manager, SaaS Engineering**, January 2014 - Present. *Oracle*
   * Built multiple internal tools using Python for ETL Tasks, service validation, and integrating with Cloud APIs.
- * Designed solution for scale-out expansion of API service across multiple datacenters.
+  * Designed solution for scale-out expansion of API service across multiple datacenters.
   * Designed and implemented CI/CD solution to automate deployment across multiple legacy and cloud native environments.
   * Security hardening of services with architecture changes, web application firewalls and active DDoS mitigation.
   * Planned and executed project to migrate production service to new datacenters.
@@ -44,9 +44,9 @@ title: Brandon Helwig
   * Built continuous deployment system using a Jenkins based workflow.
   * Supported multiple SQL and NoSQL production databases.
 
-**Founder**, December 2008 - March 2014. *Xenscale Hosting*
+**Founder**, December 2008 - March 2014. *Xenscale*
 
-  * High Touch WordPress Hosting for 10+ million impressions per month websites.
+  * Provided High Touch WordPress Hosting for 10+ million impressions per month websites.
   * Wordpress, PHP, Ruby on Rails, and Python (Django/Flask) Backend Web Development.
   * Cloud automation and Linux server administration.
 
@@ -54,14 +54,13 @@ title: Brandon Helwig
 
   * NOC alert monitoring of data centers and outside plant facilities.
   * Coordinating with outside plant, central office, and network partners during service issues.
-  * Tech support for phone, TV, and Internet (Dial-up, Cable, DSL, Fiber) services for commercial and residential users.
+  * Tech support for phone, TV, and Internet (Dial-up, Cable, DSL, Fiber) services for commercial and residential customers.
 
 **Founder**, May 2003 - July 2005. *Helwig Technologies*
 
   * Developed inventory website for car dealership using PHP/MySQL.
   * Provided field support for IBM AS/400 hardware to USDA regional offices.
   * Deployed and managed Windows domains and Exchange servers.
-  * Home and business Windows desktop IT support.
 
 
 ## Professional Certifications
