@@ -32,6 +32,8 @@ title: Brandon Helwig
   * Negotiated with and managed relationships with enterprise hardware and software suppliers.
   * Maintained and documented inbound open source software licensing compliance.
 
+<p style="page-break-before: always"></p>
+
 **DevOps Engineer**, August 2009 - January 2014. *Push IO* (Acquired by Oracle)
 
   * Built High Availability API Gateway abstraction to scale out application across multiple environments.
