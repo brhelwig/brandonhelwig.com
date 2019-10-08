@@ -14,7 +14,7 @@ garmin_username: brhelwig
 stack_of_username: 180881
 
 resume_url: "/resume"
-blog_url: "/blog"
+#blog_url: "/blog"
 
 avatar: yes
 avatar_img_path: "/assets/img/avatar.jpg"
