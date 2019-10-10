@@ -17,12 +17,12 @@ resume_url: "/resume"
 #blog_url: "/blog"
 
 avatar: yes
-avatar_img_path: "/assets/img/avatar.jpg"
-avatar_alt_text: "Photo of Brandon Helwig"
+avatar_img_path: "/assets/img/avatar2019.jpg"
+avatar_alt_text: "Portrait of Brandon Helwig"
 
 front_img: yes
 front_img_path: "/assets/img/moab.jpg"
-front_img_alt_text: "Photo of Handlebars overlooking a cliff in Moab, UT (Me Mountain Biking)"
+front_img_alt_text: "Photo of Mountain Bike Handlebars overlooking a red rocky cliff in Moab, Utah."
 
 favicon_img: yes
 favicon_img_path: "/assets/img/favicon.png"
