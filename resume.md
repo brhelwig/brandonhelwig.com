@@ -22,7 +22,7 @@ title: Brandon Helwig
 ## Professional Experience
 
 
-**Infra. Architect & Manager, SaaS Engineering**, January 2014 - Present. *Oracle*
+**Infra. Architect & Manager, SaaS Engineering**, January 2014 - October 2019. *Oracle*
   * Built multiple internal tools using Python for ETL Tasks, service validation, and integrating with Cloud APIs.
   * Designed solution for scale-out expansion of API service across multiple datacenters.
   * Designed and implemented CI/CD solution to automate deployment across multiple legacy and cloud native environments.
@@ -31,6 +31,7 @@ title: Brandon Helwig
   * Built a new Site Reliability Engineering team across time zones to support the growth of the business.
   * Negotiated with and managed relationships with enterprise hardware and software suppliers.
   * Maintained and documented inbound open source software licensing compliance.
+  * Received Oracle SaaS Engineering Excellence Award in 2019.
 
 <p style="page-break-before: always"></p>
 
