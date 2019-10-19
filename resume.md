@@ -21,6 +21,10 @@ title: Brandon Helwig
 
 ## Professional Experience
 
+**Platform Architect**, November 2019 - Present. *Nami ML*
+  * Develop and maintain backend systems, API services, data pipelines, machine learning services, and databases
+  * Design and architect systems that can scale to very high traffic levels
+  * Provide operational support on all production backend systems
 
 **Infra. Architect & Manager, SaaS Engineering**, January 2014 - Present. *Oracle*
   * Built multiple internal tools using Python for ETL Tasks, service validation, and integrating with Cloud APIs.
