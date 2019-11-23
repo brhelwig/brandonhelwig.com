@@ -14,10 +14,15 @@ permalink: /
         {% if site.favicon_img %}
         <link rel="shortcut icon" href="{{ site.favicon_img_path }}" />
         {% endif %}
-        <link rel="stylesheet" href="{{ "/assets/css/front.css" | prepend: site.baseurl }}">
-        <link href="/assets/google-fonts/bitter.css" rel="stylesheet">
-        <!-- <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin' rel='stylesheet' type='text/css'> -->
-        <link rel="stylesheet" href="/assets/font-awesome/5.5.0/css/all.min.css">
+        <style>
+        {% include_relative /assets/css/front.css %}
+        </style>
+        <style>
+        {% include_relative /assets/google-fonts/bitter.css %}
+        </style>
+        <style>
+        {% include_relative /assets/font-awesome/5.5.0/css/all.min.css %}
+        </style>
     </head>
     <body>
         <div class="content">
