@@ -5,7 +5,7 @@ title: Brandon Helwig
 
 <h1 style="text-align:center;">Brandon Helwig</h1>
 <div style="text-align:center;">
-  Broomfield, Colorado &bull; resume@brandonhelwig.com &bull; (303) 747-4070
+  Broomfield, Colorado &bull; resume@brandonhelwig.com
 </div>
 <br />
 
