@@ -6,6 +6,9 @@
 * MIT licensed.
 
 
+
+
+
 ## See it in action
 <a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
 
